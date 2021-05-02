@@ -1,0 +1,11 @@
+1619907036: mosquitto version 2.0.10 starting
+1619907036: Config loaded from /mosquitto/config/mosquitto.conf.
+1619907036: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1619907036: Create a configuration file which defines a listener to allow remote access.
+1619907036: For more details see https://mosquitto.org/documentation/authentication-methods/
+1619907036: Opening ipv4 listen socket on port 1883.
+1619907036: Opening ipv6 listen socket on port 1883.
+1619907036: Error: Address not available
+1619907036: mosquitto version 2.0.10 running
+1619908337: mosquitto version 2.0.10 terminating
+1619908337: Saving in-memory database to ./mosquitto/data//mosquitto.db.
