@@ -9,3 +9,34 @@
 1619907036: mosquitto version 2.0.10 running
 1619908337: mosquitto version 2.0.10 terminating
 1619908337: Saving in-memory database to ./mosquitto/data//mosquitto.db.
+1620020949: mosquitto version 2.0.10 starting
+1620020949: Config loaded from /mosquitto/config/mosquitto.conf.
+1620020949: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1620020949: Create a configuration file which defines a listener to allow remote access.
+1620020949: For more details see https://mosquitto.org/documentation/authentication-methods/
+1620020949: Opening ipv4 listen socket on port 1883.
+1620020949: Opening ipv6 listen socket on port 1883.
+1620020949: Error: Address not available
+1620020949: mosquitto version 2.0.10 running
+1620020954: mosquitto version 2.0.10 terminating
+1620020954: Saving in-memory database to ./mosquitto/data//mosquitto.db.
+1620020956: mosquitto version 2.0.10 starting
+1620020956: Config loaded from /mosquitto/config/mosquitto.conf.
+1620020956: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1620020956: Create a configuration file which defines a listener to allow remote access.
+1620020956: For more details see https://mosquitto.org/documentation/authentication-methods/
+1620020956: Opening ipv4 listen socket on port 1883.
+1620020956: Opening ipv6 listen socket on port 1883.
+1620020956: Error: Address not available
+1620020956: mosquitto version 2.0.10 running
+1620020957: mosquitto version 2.0.10 terminating
+1620020957: Saving in-memory database to ./mosquitto/data//mosquitto.db.
+1620021049: mosquitto version 2.0.10 starting
+1620021049: Config loaded from /mosquitto/config/mosquitto.conf.
+1620021049: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1620021049: Create a configuration file which defines a listener to allow remote access.
+1620021049: For more details see https://mosquitto.org/documentation/authentication-methods/
+1620021049: Opening ipv4 listen socket on port 1883.
+1620021049: Opening ipv6 listen socket on port 1883.
+1620021049: Error: Address not available
+1620021049: mosquitto version 2.0.10 running
